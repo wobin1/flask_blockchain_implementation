@@ -1,0 +1,9 @@
+{
+    "amount": 59000,
+    "borower": "Peace",
+    "lender": "Peter",
+    "prev_block": {
+        "hash": "",
+        "prev_filename": ""
+    }
+}

@@ -1,0 +1,9 @@
+{
+    "amount": 45000,
+    "borower": "Godwin",
+    "lender": "wobin",
+    "prev_block": {
+        "hash": "b61306208bafa6bdf33c364638632cf1",
+        "prev_filename": "block2"
+    }
+}
