@@ -1,0 +1,9 @@
+{
+    "amount": "",
+    "borower": "",
+    "lender": "",
+    "prev_block": {
+        "hash": "b69ea0335a23a125cd0c265b39a1ea5d",
+        "prev_filename": "block6"
+    }
+}

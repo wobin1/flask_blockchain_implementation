@@ -1,9 +1,11 @@
 from flask import Flask, request, json, jsonify
 import os
 import hashlib
+from flask_cors import CORS
 
 
 app = Flask(__name__)
+CORS(app)
 
 blockchain_dir = 'blocksss/'
 blockCount = len(os.listdir(blockchain_dir ))
@@ -39,7 +41,7 @@ def checkIntegrity():
 		f'{prev_filename, res}'
 
 		result.append({"block_name": prev_filename, "message": res})
-	return {"resp": result}
+	return jsonify(result)
 
 		
 			

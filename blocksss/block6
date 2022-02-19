@@ -1,0 +1,9 @@
+{
+    "amount": 95000,
+    "borower": "Nonso",
+    "lender": "wobin",
+    "prev_block": {
+        "hash": "83ecba7a42b2e7f540064b25e46e60e7",
+        "prev_filename": "block5"
+    }
+}

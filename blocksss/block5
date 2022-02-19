@@ -1,0 +1,9 @@
+{
+    "amount": 800000,
+    "borower": "Ibrahim",
+    "lender": "Aliyu",
+    "prev_block": {
+        "hash": "7bf57ddcdc0825448406f114bb03ae53",
+        "prev_filename": "block4"
+    }
+}
